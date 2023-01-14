@@ -24,8 +24,8 @@ Una imagen es un bloque de construcción sin estado. Lo puedes ver como una cole
 
 # Dockerfile
 1. Crear nuevo directorio y un archivo llamado Dockerfile
-![Alt text](https://raw.githubusercontent.com/ricardoolivaresventura/ExamenFinalCC-3S2/main/dockerfile-ubuntu.PNG "")
+![Alt text](https://raw.githubusercontent.com/ricardoolivaresventura/Actividad-18-cc3s3/main/dockerfile-ubuntu.PNG "")
 2. Ejecutamos el comando para construir la imagen utilizando el archivo Dockerfile
-![Alt text](https://raw.githubusercontent.com/ricardoolivaresventura/ExamenFinalCC-3S2/main/dockerfile-image.PNG "")
+![Alt text](https://raw.githubusercontent.com/ricardoolivaresventura/Actividad-18-cc3s3/main/dockerfile-image.PNG "")
 3. Comprobamos que la imagen se creó ejecutando el sgte comando:
-![Alt text](https://raw.githubusercontent.com/ricardoolivaresventura/ExamenFinalCC-3S2/main/dockerfile-images-docker.PNG "")
+![Alt text](https://raw.githubusercontent.com/ricardoolivaresventura/Actividad-18-cc3s3/main/dockerfile-images-docker.PNG "")
